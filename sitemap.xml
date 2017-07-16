@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bigkucha.github.com/go/quickstart/</loc>
+    <lastmod>2017-07-14T15:45:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/branch/</loc>
+    <lastmod>2017-07-14T15:38:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/checkout/</loc>
+    <lastmod>2017-07-14T15:38:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/log/</loc>
+    <lastmod>2017-07-14T15:38:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/history/</loc>
+    <lastmod>2017-07-14T15:38:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/cherry-pick/</loc>
+    <lastmod>2017-07-14T15:37:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/fetch/</loc>
+    <lastmod>2017-07-14T15:37:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/rebase/</loc>
+    <lastmod>2017-07-14T15:37:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/merge/</loc>
+    <lastmod>2017-07-14T15:37:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/add/</loc>
+    <lastmod>2017-07-14T15:37:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/commit/</loc>
+    <lastmod>2017-07-14T15:37:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/pull/</loc>
+    <lastmod>2017-07-11T16:24:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/push/</loc>
+    <lastmod>2017-07-11T16:19:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/tags/git/</loc>
+    <lastmod>2017-07-14T15:38:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/categories/git/</loc>
+    <lastmod>2017-07-14T15:38:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/git/</loc>
+    <lastmod>2017-07-14T15:38:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/tags/go/</loc>
+    <lastmod>2017-07-14T15:45:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/categories/go/</loc>
+    <lastmod>2017-07-14T15:45:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/go/</loc>
+    <lastmod>2017-07-14T15:45:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/tags/</loc>
+    <lastmod>2017-07-14T15:38:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigkucha.github.com/</loc>
+    <lastmod>2017-07-14T15:45:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

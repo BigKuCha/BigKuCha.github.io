@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on 大裤衩子的博客</title>
+    <link>https://bigkucha.github.com/categories/git/</link>
+    <description>Recent content in Git on 大裤衩子的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 15:38:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://bigkucha.github.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Branch</title>
+      <link>https://bigkucha.github.com/git/branch/</link>
+      <pubDate>Fri, 14 Jul 2017 15:38:24 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/branch/</guid>
+      <description>&lt;p&gt;Git branch&lt;/p&gt;
+
+&lt;p&gt;git branch 不带参数：列出本地已经存在的分支，并且在当前分支的前面加“*”号标记，例如：
+   #git branch
+* master
+   newbranch&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Checkout</title>
+      <link>https://bigkucha.github.com/git/checkout/</link>
+      <pubDate>Fri, 14 Jul 2017 15:38:15 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/checkout/</guid>
+      <description>In no particular order, here is what we are working on:
+Intelligently related posts (#98) Even easier deployment to S3, SSH, GitHub, rsync. Give the tools section a shot or read one of the related tutorials. Import from other website systems. There are already existing migration tools but they don’t cover all major platforms. An interactive web based editor (See https://discourse.gohugo.io/t/web-based-editor/155) Additional themes (always on-going, contributions welcome!) Dynamic image resizing via shortcodes (#1014) Native support for additional content formats (AsciiDoc #1435, reST #1436) And, last but not least, Your best ideas!</description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://bigkucha.github.com/git/log/</link>
+      <pubDate>Fri, 14 Jul 2017 15:38:07 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://bigkucha.github.com/git/history/</link>
+      <pubDate>Fri, 14 Jul 2017 15:38:04 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherry Pick</title>
+      <link>https://bigkucha.github.com/git/cherry-pick/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:57 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/cherry-pick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fetch</title>
+      <link>https://bigkucha.github.com/git/fetch/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:42 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/fetch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebase</title>
+      <link>https://bigkucha.github.com/git/rebase/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:37 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/rebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merge</title>
+      <link>https://bigkucha.github.com/git/merge/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:31 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add</title>
+      <link>https://bigkucha.github.com/git/add/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:24 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commit</title>
+      <link>https://bigkucha.github.com/git/commit/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:16 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/commit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull</title>
+      <link>https://bigkucha.github.com/git/pull/</link>
+      <pubDate>Tue, 11 Jul 2017 16:24:20 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/pull/</guid>
+      <description>&lt;h1 id=&#34;pull&#34;&gt;pull&lt;/h1&gt;
+
+&lt;p&gt;1111122222222222333333333333334444444444444 5555555555 
+alfjafjlajfle HUGOMORE42
+8888888
+99999&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Push</title>
+      <link>https://bigkucha.github.com/git/push/</link>
+      <pubDate>Tue, 11 Jul 2017 16:19:22 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/push/</guid>
+      <description> push 111 </description>
+    </item>
+    
+  </channel>
+</rss>

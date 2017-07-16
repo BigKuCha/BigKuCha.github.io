@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on 大裤衩子的博客</title>
+    <link>https://bigkucha.github.com/tags/go/</link>
+    <description>Recent content in Go on 大裤衩子的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 15:45:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://bigkucha.github.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://bigkucha.github.com/go/quickstart/</link>
+      <pubDate>Fri, 14 Jul 2017 15:45:02 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/go/quickstart/</guid>
+      <description>Hello, 世界 欢迎来到Go 编程语言指南。
+点击页面顶部左边的Go 指南， 可以访问该指南的模块列表。
+任何时候，都可以通过点击页面顶部右边的菜单浏览内容清单。
+在指南后有若干个练习需要读者完成。
+你可以使用
+&amp;ldquo;上一页&amp;rdquo; 或 PageUp 键跳转到前一个页面， &amp;ldquo;下一页&amp;rdquo; 或 PageDown 键跳转到下一个页面。 该指南可以进行交互。点击 “运行”按钮（或按 Shift + Enter）可以在 你的电脑上 编译并执行程序。 结果展示在代码的下面。
+这些例子程序展示了 Go 的各个方面。在指南中的程序可以成为你积累经验的开始。
+编辑程序并且再次执行它。
+注意当你点击格式化或Ctrl - Enter 时，编辑器中的文本会被 gofmt 工具格式化。 你可以点击语法开启或关闭语法高亮。
+如果你准备好了，请点击页面底部的右箭头或按 PageDown 键继续。
+Hello, 世界 欢迎来到Go 编程语言指南。
+点击页面顶部左边的Go 指南， 可以访问该指南的模块列表。
+任何时候，都可以通过点击页面顶部右边的菜单浏览内容清单。
+在指南后有若干个练习需要读者完成。
+你可以使用
+&amp;ldquo;上一页&amp;rdquo; 或 PageUp 键跳转到前一个页面， &amp;ldquo;下一页&amp;rdquo; 或 PageDown 键跳转到下一个页面。 该指南可以进行交互。点击 “运行”按钮（或按 Shift + Enter）可以在 你的电脑上 编译并执行程序。 结果展示在代码的下面。
+这些例子程序展示了 Go 的各个方面。在指南中的程序可以成为你积累经验的开始。</description>
+    </item>
+    
+    <item>
+      <title>Add</title>
+      <link>https://bigkucha.github.com/git/add/</link>
+      <pubDate>Fri, 14 Jul 2017 15:37:24 +0800</pubDate>
+      
+      <guid>https://bigkucha.github.com/git/add/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
